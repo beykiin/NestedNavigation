@@ -1,12 +1,16 @@
 <h1><i>NESTED NAVIGATION EXAMPLE REACT-NATIVE</i></h1>
 <p>Tab and Stack navigators are used to create a nested navigation structure in my project. There are two pages in the bottom menu: "Profile" and "Member". In the "Member" page, you can navigate between three different pages. In the "Profile" page, you can navigate between two different pages.</p>
 <div align="center">
-   <div style="display-flex">
-      <img src="SS1.png" width="300" height="600" margin="10">
-      <img src="SS2.png" width="300" height="600" margin="10">
-      <img src="SS3.png" width="300" height="600" margin="10">
-      <img src="SS4.png" width="300" height="600" margin="10">
-      <img src="SS5.png" width="300" height="600" margin="10">
+   <div style="display-flex" just>
+      <img src="SS1.png" width="300" height="600">
+      <div width="10"></div>
+      <img src="SS2.png" width="300" height="600">
+      <div width="10"></div>
+      <img src="SS3.png" width="300" height="600">
+      <div width="10"></div>
+      <img src="SS4.png" width="300" height="600">
+      <div width="10"></div>
+      <img src="SS5.png" width="300" height="600">
    </div>
 </div>
 
