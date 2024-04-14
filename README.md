@@ -4,12 +4,10 @@
    <img src="SS1.png" width="300" height="600">
    <img src="SS2.png" width="300" height="600">
    <img src="SS3.png" width="300" height="600">
-</div>
-<div style="display-flex">
-   
    <img src="SS4.png" width="300" height="600">
    <img src="SS5.png" width="300" height="600">
 </div>
+
    
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
