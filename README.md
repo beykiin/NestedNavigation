@@ -1,3 +1,15 @@
+<h1><i>NESTED NAVIGATION EXAMPLE REACT-NATIVE</i></h1>
+<p>Tab and Stack navigators are used to create a nested navigation structure in my project. There are two pages in the bottom menu: "Profile" and "Member". In the "Member" page, you can navigate between three different pages. In the "Profile" page, you can navigate between two different pages.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+<div style="display-flex">
+   <img src="SS3.png">
+   <img src="SS4.png">
+</div>
+   <img src="SS5.png">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
