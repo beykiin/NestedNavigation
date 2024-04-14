@@ -6,8 +6,6 @@
       <img width="30">
       <img src="SS2.png" width="300" height="600">
       <img width="30">
-      <img src="SS2.png" width="300" height="600">
-      <img width="30">
       <img src="SS3.png" width="300" height="600">
       <img width="30">
       <img src="SS4.png" width="300" height="600">
