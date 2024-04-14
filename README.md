@@ -7,6 +7,11 @@
          <img src="SS1.png" width="300" height="600">
          <img width="30">
       </div>
+      <div>
+         <h1>SS-2</h1>
+         <img src="SS2.png" width="300" height="600">
+         <img width="30">
+      </div>
       <img src="SS2.png" width="300" height="600">
       <img width="30">
       <img src="SS3.png" width="300" height="600">
