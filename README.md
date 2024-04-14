@@ -3,13 +3,13 @@
 <div align="center">
    <div style="display-flex" just>
       <img src="SS1.png" width="300" height="600">
-      <div width="10"></div>
+      <img width="10">
       <img src="SS2.png" width="300" height="600">
-      <div width="10"></div>
+      <img width="10">
       <img src="SS3.png" width="300" height="600">
-      <div width="10"></div>
+      <img width="10">
       <img src="SS4.png" width="300" height="600">
-      <div width="10"></div>
+      <img width="10">
       <img src="SS5.png" width="300" height="600">
    </div>
 </div>
